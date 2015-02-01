@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlappyBird\AppMain.cs">
+    <Files>
+      <File FileName="FlappyBird\AppMain.cs" Line="166" Column="3" />
+      <File FileName="FlappyBird\Bird.cs" Line="43" Column="4" />
+      <File FileName="FlappyBird\Chain.cs" Line="26" Column="3" />
+      <File FileName="FlappyBird\Background.cs" Line="113" Column="69" />
+      <File FileName="FlappyBird\Mine.cs" Line="55" Column="46" />
+      <File FileName="FlappyBird\Bubble.cs" Line="33" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
